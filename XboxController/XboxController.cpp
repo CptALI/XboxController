@@ -120,7 +120,7 @@ int main() {
         bytePrinter(Buttons[0]);
         bytePrinter(Buttons[1]);
         bytePrinter(Buttons[2]);
-        bytePrinter(a);
+        // bytePrinter(a);
         std::cout << std::endl;
  
         // Wait for 100 milliseconds before reading again

@@ -5,4 +5,4 @@ But they can be added if required<br/>
 **FIRST BYTE [Buttons]**
 Byte Number | #0 | #1 | #2 | #3 | #4 | #5 | #6 | #7 
 --- | --- | --- | --- |--- |--- |--- |--- |--- 
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 
+Button | A | B | X | Y | 289 | 285 | 287 | 287 
